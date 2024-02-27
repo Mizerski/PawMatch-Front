@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.2.0](https://github.com/Mizerski/PawMatch-Front/compare/v1.1.2...v1.2.0) (2024-02-27)
+
+
+### Features
+
+* add board and card to homepage ([ab5ca9f](https://github.com/Mizerski/PawMatch-Front/commit/ab5ca9fd3a6d64936a99aadff2cab2e47e6d8156))
+
 ### [1.1.2](https://github.com/Mizerski/PawMatch-Front/compare/v1.1.1...v1.1.2) (2024-02-27)
 
 
