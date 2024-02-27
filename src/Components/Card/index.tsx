@@ -12,7 +12,7 @@ export function Card() {
 
 const styles = StyleSheet.create({
   card: {
-    backgroundColor: colors.soft_green,
+    backgroundColor: colors.background,
     borderRadius: 12,
     padding: 10,
     width: 300,
@@ -21,6 +21,6 @@ const styles = StyleSheet.create({
   petInfo: {
     fontSize: 24,
     fontWeight: "bold",
-    color: colors.light_gray,
+    color: colors.font_pink,
   },
 });

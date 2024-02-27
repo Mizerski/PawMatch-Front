@@ -1,8 +1,6 @@
-export const colors={
-
-    soft_green:'#9CCC65',
-    soft_pink: '#F48FB1',
-    light_blue: '#81D4FA',
-    light_gray: '#E0E0E0',
-    cream: '#FFE0B2',
-}
+export const colors = {
+  card: "#1a1f15",
+  font_gray: "#E0E0E0",
+  background: "#fcf3e5",
+  font_pink: "#e91e63",
+};

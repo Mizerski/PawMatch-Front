@@ -14,7 +14,7 @@ export function HomeScreen() {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: colors.cream,
+    backgroundColor: colors.card,
     alignItems: "center",
     justifyContent: "center",
   },
