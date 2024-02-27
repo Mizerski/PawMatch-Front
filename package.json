@@ -10,11 +10,6 @@
     "release": "standard-version",
     "prepare": "husky install"
   },
-  "husky": {
-    "hooks": {
-      "pre-push": "npm run release"
-    }
-  },
   "dependencies": {
     "@react-navigation/bottom-tabs": "^6.5.14",
     "expo": "~50.0.8",
@@ -28,7 +23,7 @@
     "@babel/core": "^7.20.0",
     "@types/react": "~18.2.45",
     "@types/react-native": "^0.73.0",
-    "husky": "^9.0.11",
+    "husky": "^7.0.4",
     "standard-version": "^9.5.0",
     "typescript": "^5.1.3"
   },
